@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile screenshot: [here](./screenshots/screenshot-mobile.png)
-Desktop screenshot: [here](./screenshots/screenshot-desktop.png)
+- Mobile screenshot: [here](./screenshots/screenshot-mobile.png)
+- Desktop screenshot: [here](./screenshots/screenshot-desktop.png)
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/faqaccordioncard-using-html-css-and-javascript-A3eaqmaPbk)
+- Live Site URL: [here](https://zun-liang.github.io/faq-accordion-card-main/)
 
 ## My process
 
