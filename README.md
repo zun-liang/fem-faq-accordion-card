@@ -13,7 +13,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -60,3 +60,7 @@ Users should be able to:
 
 - Website - [Zun Liang](https://zun-liang.github.io/)
 - Frontend Mentor - [@zun-liang](https://www.frontendmentor.io/profile/zun-liang)
+
+## Acknowledgments
+
+  Thanks so much for [Manoj Kumar Singh](https://www.frontendmentor.io/profile/dev-mksingh)'s generous help on solving the desktop view's overflow problem!
