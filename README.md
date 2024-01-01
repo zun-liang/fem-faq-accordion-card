@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://www.frontendmentor.io/solutions/faqaccordioncard-using-html-css-and-javascript-A3eaqmaPbk)
-- Live Site URL: [here](https://zun-liang.github.io/faq-accordion-card-main/)
+- Live Site URL: [here](https://zun-liang.github.io/fem-faq-accordion-card/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 
 - positioning
 - overflow
-- nodelist
+- NodeList
 
 ### Continued development
 
@@ -65,4 +65,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-  Thanks so much for [Manoj Kumar Singh](https://www.frontendmentor.io/profile/dev-mksingh)'s generous help on solving the desktop view's overflow problem!
+Thanks so much for [Manoj Kumar Singh](https://www.frontendmentor.io/profile/dev-mksingh)'s generous help on solving the desktop view's overflow problem!
